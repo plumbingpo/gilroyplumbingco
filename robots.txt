@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gilroyplumbingco.com/sitemap.xml
